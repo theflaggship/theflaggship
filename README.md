@@ -1,6 +1,6 @@
 <p>
-<a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" width="200" /></a>&nbsp;
-<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail" width="200"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" width="100" height="50"/></a>&nbsp;
+<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail" width="100" height="50"/></a>&nbsp;
 </p>
 
 <h3 align="center">Hi 👋, I'm Montgomery (Monte) Flagg</h3>
