@@ -1,6 +1,6 @@
 <p>
-<a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" width="200" /></a>&nbsp;
+<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail" width="200"/></a>&nbsp;
 </p>
 
 <h3 align="center">Hi 👋, I'm Montgomery (Monte) Flagg</h3>
@@ -40,4 +40,3 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a> -->
-
