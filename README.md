@@ -5,13 +5,13 @@
 
 <h3 align="center">Hi 👋, I'm Montgomery (Monte) Flagg</h3>
 <h5 align="center">Student Full-Stack Engineer with App Academy.</h5>
-<div> </div>
-<div> </div>
+<br/>
+<br/>
 
 <h4>Currently learning...</h4>
 
-<div> </div>
-<div> </div>
+<br/>
+<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 
