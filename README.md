@@ -5,6 +5,7 @@
 <br/>
 <h3>Hi 👋, I'm Montgomery (Monte) Flagg</h3>
 <h5>Student Full-Stack Engineer with App Academy.</h5>
+<a href="https://www.linkedin.com/in/montgomeryflagg/"> LinkedIn
 <br/>
 
 
