@@ -2,7 +2,7 @@
 <!-- <a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" width="100" height="25" style="border:1px solid #CCC"/></a>&nbsp;
 <a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail" width="100" height="25" style="border:1px solid #CCC"/></a>&nbsp; -->
 
-<h3>Hi 👋, I'm Montgomery (Monte) Flagg.</h3>
+<h3>Hi 👋, I'm Montgomery (Monte) Flagg</h3>
 <h5>Student Full-Stack Engineer with App Academy.</h5>
 <a href="https://www.linkedin.com/in/montgomeryflagg/"> LinkedIn
   
