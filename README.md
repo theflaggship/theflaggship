@@ -7,7 +7,10 @@
 <a href="https://www.linkedin.com/in/montgomeryflagg/"> LinkedIn
   
 <br/>
+ 
+<h2>Projects:</h2>
   
+<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src=https://i.imgur.com/U8fFPn7.jpgs" width='190px' /></a>
 
 <h4>Experience with...</h4>
 
