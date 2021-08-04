@@ -10,9 +10,9 @@
  
 <h3>Projects:</h3>
   
-<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" width='190px' style="border-radius:10px" /></a>
+<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" height= '30%' width='30%' style="border-radius:10px" /></a>
 <p>   </p>
-<a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" width='190px' style="border-radius:50%" /></a>
+<a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" height= '30%' width='30%' style="border-radius:50%" /></a>
 
 <h4>Experience with...</h4>
 
