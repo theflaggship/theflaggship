@@ -10,7 +10,7 @@
  
 <h2>Projects:</h2>
   
-<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/U8fFPn7.jpgs" width='190px' border-radius="10px" /></a>
+<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/U8fFPn7.jpgs" width='190px' style="border-radius:10px" /></a>
 
 <h4>Experience with...</h4>
 
