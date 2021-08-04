@@ -11,6 +11,7 @@
 <h3>Projects:</h3>
   
 <a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/U8fFPn7.jpgs" width='190px' style="border-radius:10px" /></a>
+<p>   </p>
 <a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" width='190px' style="border-radius:50%" /></a>
 
 <h4>Experience with...</h4>
