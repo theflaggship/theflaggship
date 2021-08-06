@@ -7,12 +7,17 @@
 <a href="https://www.linkedin.com/in/montgomeryflagg/"> LinkedIn
   
 <br/>
+  
+-------------------------------------------------------------------------
  
 <h3>Projects:</h3>
   
 <a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" height= auto width='20%' style="border-radius:10px" /></a>
 <p>   </p>
 <a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" height= auto width='20%' style="border-radius:50%" /></a>
+  
+
+-------------------------------------------------------------------------
 
 <h4>Experience with...</h4>
 
