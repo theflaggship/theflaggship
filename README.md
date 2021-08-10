@@ -1,6 +1,8 @@
+<p> 
+<a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p> 
 
-<!-- <a href="https://www.linkedin.com/in/montgomeryflagg/"><img src="linkedin_button_icon_151847.png" alt="LinkedIn" width="100" height="25" style="border:1px solid #CCC"/></a>&nbsp;
-<a href="mailto:monteflagg@gmail.com?subject=GitHub"><img src="gmail_button_icon_151848.png" alt="Gmail" width="100" height="25" style="border:1px solid #CCC"/></a>&nbsp; -->
 
 <h3>Hi 👋, I'm Montgomery (Monte) Flagg</h3>
 <h5>Student Full-Stack Engineer with App Academy.</h5>
