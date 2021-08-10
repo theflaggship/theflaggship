@@ -5,7 +5,6 @@
 
 
 <h3>Hi 👋, I'm Montgomery (Monte) Flagg</h3>
-<br/>
 <h5>Student Full-Stack Engineer with App Academy.</h5>
   
 <br/>
