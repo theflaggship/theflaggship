@@ -7,9 +7,9 @@
 <h3>Hi 👋, I'm Montgomery (Monte) Flagg</h3>
 
 <h4>Education:</h4>
-<h5>Currently: Student Full-Stack Engineer with App Academy.</h5>
-<h5>Currently: Student with <a href='https://www.thepowermba.com/en/'>ThePowerMBA</a> (Online Entreprenuer and Business Program).</h5>
-<h5>UCLA Bachelor's Degree in Economonics</h5>
+Currently: Student Full-Stack Engineer with App Academy.
+Currently: Student with <a href='https://www.thepowermba.com/en/'>ThePowerMBA</a> (Online Entreprenuer and Business Program).
+UCLA Bachelor's Degree in Economonics
   
 <br/>
   
