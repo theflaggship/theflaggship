@@ -24,7 +24,7 @@ UCLA Bachelor's Degree in Economonics
 <h4>Group:</h4>
 
 <a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" height= auto width='20%' style="border-radius:50%" /></a>
-<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/PQ0XzXT.png" height= auto width='20%' style="border-radius:50%" /></a>
+<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/aSwFNrR.png" height= auto width='20%' style="border-radius:50%" /></a>
   
 
 -------------------------------------------------------------------------
