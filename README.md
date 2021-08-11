@@ -16,9 +16,14 @@ UCLA Bachelor's Degree in Economonics
 -------------------------------------------------------------------------
  
 <h3>Projects:</h3>
+
+<h4>Solo:</h4>
+<br/>
   
 <a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" height= auto width='20%' style="border-radius:10px" /></a>
-<p>   </p>
+
+<h4>Group:</h4>
+<br/>
 <a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" height= auto width='20%' style="border-radius:50%" /></a>
 <a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/xHgaXbk.png" height= auto width='20%' style="border-radius:50%" /></a>
   
