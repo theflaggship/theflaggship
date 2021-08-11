@@ -9,7 +9,7 @@
 <h4>Education:</h4>
 Currently: Student Full-Stack Engineer with App Academy. <br/>
 Currently: Student with <a href='https://www.thepowermba.com/en/'>ThePowerMBA</a> (Online Entreprenuer and Business Program).<br/>
-UCLA Bachelor's Degree in Economonics
+UCLA - Bachelor's Degree in Economonics
   
 <br/>
   
