@@ -21,7 +21,7 @@ UCLA - Bachelor's Degree in Economonics
   
 <a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" height= auto width='20%' style="border-radius:10px" /></a>
 
-<h4>Group:</h4>
+<h4>Team:</h4>
 
 <a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg" height= auto width='20%' style="border-radius:50%" /></a>
 <a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png" height= auto width='20%' style="border-radius:50%" /></a>
