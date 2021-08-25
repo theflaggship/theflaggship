@@ -28,7 +28,7 @@ UCLA - Bachelor's Degree in Economonics
 <h4>Solo:</h4>
   
 <a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg" height= auto width='190px'/></a>
-<a href="https://github.com/theflaggship/should-i"><img src="https://i.imgur.com/FZwxqpv.png" height= auto width='190px'/></a>
+<a href="https://github.com/theflaggship/should-i"><img src="https://i.imgur.com/XEyp0kB.png" height= auto width='190px'/></a>
 
 <h4>Team:</h4>
 
