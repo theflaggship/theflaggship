@@ -14,8 +14,8 @@ I love innovating, building, and designing products, combining my extensive 16-y
 -------------------------------------------------------------------------
 
 <h3>Education:</h3>
-Currently: Student Full-Stack Engineer with <a href='https://www.appacademy.io/'>App Academy</a>. <br/>
 Currently: Student with <a href='https://www.thepowermba.com/en/'>ThePowerMBA</a> (Online Entreprenuer and Business Program).<br/>
+Full-Stack Engineer Program with <a href='https://www.appacademy.io/'>App Academy</a>. <br/>
 UCLA - Bachelor's Degree in Economonics
   
 <br/>
