@@ -26,13 +26,13 @@ UCLA - Bachelor's Degree in Economonics
 
 <h4>Solo:</h4>
   
-<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg?1" height= auto width='190px'/></a>
-<a href="https://github.com/theflaggship/should-i"><img src="https://i.imgur.com/0Gc72yM.png?1" height= auto width='190px'/></a>
+<a href="https://github.com/theflaggship/stayquaint-airbnb-clone"><img src="https://i.imgur.com/OaQCbAb.jpg?1" height= auto width='200px'/></a>
+<a href="https://github.com/theflaggship/should-i"><img src="https://i.imgur.com/0Gc72yM.png?1" height= auto width='200px'/></a>
 
 <h4>Team:</h4>
 
-<a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg?1" height= auto width='190px'/></a>
-<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= auto width='190px'/></a>
+<a href="https://github.com/chrisbh4/GoodTunes"><img src="https://i.imgur.com/SnMbBSX.jpg?1" height= auto width='200px'/></a>
+<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= auto width='200px'/></a>
   
 
 -------------------------------------------------------------------------
