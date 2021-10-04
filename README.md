@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------
 <h3>About</h3>
 
-I love innovating, building, and designing products, combining my extensive 16-year experience in customer and user experience, product management, and my newly gained and sharpened skills in Javascript, Python, React / Redux, Flask, Express, CSS, and HTML from AppAcademy's immersive 24-week, 1000 hour full-stack program. When I am not coding or designing, I am a dad to two amazing kids, enjoy photography, and love food, both cooking and eating it. 😋 
+I love innovating, building, and designing products, combining my extensive 16-year experience in customer and user experience, product management, and my newly gained and sharpened skills in Javascript, Python, React, Redux, Flask, Express, CSS, and HTML from AppAcademy's immersive 24-week, 1000 hour full-stack program. When I am not coding or designing, I am a dad to two amazing kids, enjoy photography, and love food, both cooking and eating it. 😋 
 
 -------------------------------------------------------------------------
 
